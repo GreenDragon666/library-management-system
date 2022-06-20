@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CBook">
+    <Position X="0.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>UAAQQAAAAMABAAFYEAAJQZQAAAFAIABAAwgEAgAABAQ=</HashCode>
+      <FileName>CBook.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStudent">
+    <Position X="4.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EgAAAwIAIEAAAAAEICBIgAAAAAAAAARAAAAEAAAAAAA=</HashCode>
+      <FileName>CStudent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
